@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
+	<children>
+		<child name="test11" key="{287E296C-3523-414E-BE8B-178D9C6B272D}" path="test11.py" />
+		<child name="utilities" key="{98C061A0-BDFA-444A-8B5B-A8153CEC3FF1}" path="utilities.py" />
+		<child name="SetVariable" key="{9A840470-5B2F-47F1-8B3C-D02D07B742A6}" path="SetVariable.py" />
+	</children>
+</Root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<folder name="NewFolder1">
+			<child name="login" key="{C3F6ED52-C6D9-49CB-B25F-985A7779D851}" path="login.tcKDTest" />
+			<child name="logout" key="{18414EDD-DC7A-4C86-A75B-EE296A050CC7}" path="logout.tcKDTest" />
+			<child name="UI_Error" key="{E7819D1C-897F-49E0-9D88-204AFEFA0CF8}" path="UI_Error.tcKDTest" />
+			<child name="UI_Warning" key="{9CAB59E2-0A06-4D57-931D-EAA79BF9B144}" path="UI_Warning.tcKDTest" />
+		</folder>
+		<child name="Test1" key="{4C793680-99BA-452D-A5A7-23FC1DA20936}" path="Test1.tcKDTest" />
+	</children>
+</Root>

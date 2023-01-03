@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{44B5B9C9-F296-4136-AB92-C463AA8C0E69}">
+	<children>
+		<child name="ZephyrScaleIntegration_Project" key="{A5DA85EA-E59D-4EEE-A8C4-671036E1E350}" path="Test123Project\ZephyrScaleIntegration_Project.mds" />
+	</children>
+	<testItems key="{05FB4032-F546-41E2-B4EC-AF26AA41DC59}">
+		<children>
+			<testItem key="{A5DA85EA-E59D-4EEE-A8C4-671036E1E350}" enabled="False" timeout="0" stopOnError="False" description="" />
+		</children>
+	</testItems>
+	<variables key="{367198FA-2C9E-477D-981F-76DAD11F0D85}">
+		<data Version="4">
+			<Items>
+				<Variable Name="pdf_result" Type="String" Local="False">
+					<DefValue />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{54157B5D-913A-439B-B9D6-41698FD1FCAF}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>
